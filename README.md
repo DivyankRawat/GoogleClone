@@ -1,7 +1,7 @@
 <h1 align= "center">Google Clone</h1>
 
 <h2>Description</h2>
-I tried to create exact copy of Google with my knowledge of react and its frameworks. Though, it is can only search the user input and gives out the result  but still can be used for simple work. I will add Other features like User authentication / Login, images section, maps etc soon.
+This was my first project using React. I tried to create exact copy of Google with my knowledge of react and its frameworks. Though, it is can only search the user input and gives out the result  but still can be used for simple work. I will add other features like User authentication / Login, images section, maps etc soon.
 
 <h2>How it works.</h2>
 <p> This website works exactly as Google search engine. It takes the input from the user and with the help of Google custom search API, it fetches the data in form of an object which is later displayed on the screen using props. </p>
